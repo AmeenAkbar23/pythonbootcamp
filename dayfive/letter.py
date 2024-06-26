@@ -1,1 +1,3 @@
-print(26_06_2024)
+print('26.06.2024')
+print('i,am feeling happy right now')
+print('😊')
